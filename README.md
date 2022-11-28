@@ -8,6 +8,8 @@
 - <a href="http://lattes.cnpq.br/4607853815795495">Currículo Lattes</a>
 <br>
 - <a href="https://orcid.org/0000-0002-3295-5720">ORCID</a>
+- <br>
+- <a href="https://www.youtube.com/channel/UCrYXKlKekx2wvD2j3CnqubA">YouTube</a>
 <!---
 meilara/meilara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
