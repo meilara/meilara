@@ -1,4 +1,4 @@
-- 👋 Hello, <h1>I’m @meilara</h1>
+- 👋 Hello, <h1>I’m Meire Lara</h1>
 - 👀 I'm interested in learning more and more.
 - 🌱 I'm learning Python, Javascript, PHP, CSS...
 - 💞️ I'm looking to collaborate on a team that accepts a person who is learning. :) I really like to learn, I'm an eternal learner.
